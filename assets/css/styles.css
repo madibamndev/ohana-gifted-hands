@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&family=Yusei+Magic&display=swap');
 
 body {
-    background-color: #e19284;
+    background-color: #b19cd9;
     font-size: calc(16px + (20 - 16) * ((100vw - 300px) / (2500 - 300)));
 }
 
@@ -65,27 +65,27 @@ dt {
 }
 
 .list-group-item {
-    background-color: #e19284;
+    background-color: #c8bedb;
 }
 
 .list-group-item-action {
-    background-color: #e19284;
+    background-color: #cdc5db;
 }
 
 .accordion-header {
-    background-color: #e19284;
+    background-color: #b19cd9;
 }
 
 .accordion-button {
-    background-color: #e19284;
+    background-color: #b19cd9;
 }
 
 .modal-content {
-    background-color: #e19284;
+    background-color: #b19cd9;
 }
 
 #myHeadwearList {
-    background-color: #e19284;
+    background-color: #b19cd9;
 }
 #revealItem1 {
     display: none;

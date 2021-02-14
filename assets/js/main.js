@@ -65,450 +65,103 @@ var itemNotification = 0;
         document.getElementById("cartItemNotification").innerHTML = itemNotification;
     }
 
-function item1ShowNow() {
-    document.getElementById('revealItem1').style.display = "block";
-}
-
-function item2ShowNow() {
-    document.getElementById('revealItem2').style.display = "block";
-}
-
-function item3ShowNow() {
-    document.getElementById('revealItem3').style.display = "block";
-}
-
-function item4ShowNow() {
-    document.getElementById('revealItem4').style.display = "block";
-}
-
-function item5ShowNow() {
-    document.getElementById('revealItem5').style.display = "block";
-}
-
-function item6ShowNow() {
-    document.getElementById('revealItem6').style.display = "block";
-}
-
-function item7ShowNow() {
-    document.getElementById('revealItem7').style.display = "block";
-}
-
-function item8ShowNow() {
-    document.getElementById('revealItem8').style.display = "block";
-}
-
-function item9ShowNow() {
-    document.getElementById('revealItem9').style.display = "block";
-}
-
-function item10ShowNow() {
-    document.getElementById('revealItem10').style.display = "block";
-}
-
-function item11ShowNow() {
-    document.getElementById('revealItem11').style.display = "block";
-}
-
-function item12ShowNow() {
-    document.getElementById('revealItem12').style.display = "block";
-}
-
-function item13ShowNow() {
-    document.getElementById('revealItem13').style.display = "block";
-}
-
-function item14ShowNow() {
-    document.getElementById('revealItem15').style.display = "block";
-}
-
-function item15ShowNow() {
-    document.getElementById('revealItem15').style.display = "block";
-}
-
-function item16ShowNow() {
-    document.getElementById('revealItem16').style.display = "block";
-}
-
-function item17ShowNow() {
-    document.getElementById('revealItem17').style.display = "block";
-}
-
-function item18ShowNow() {
-    document.getElementById('revealItem18').style.display = "block";
-}
-
-function item19ShowNow() {
-    document.getElementById('revealItem19').style.display = "block";
-}
-
-function item20ShowNow() {
-    document.getElementById('revealItem20').style.display = "block";
-}
-
-function item21ShowNow() {
-    document.getElementById('revealItem21').style.display = "block";
-}
-
-function item22ShowNow() {
-    document.getElementById('revealItem22').style.display = "block";
-}
-
-function item23ShowNow() {
-    document.getElementById('revealItem23').style.display = "block";
-}
-
-function item24ShowNow() {
-    document.getElementById('revealItem24').style.display = "block";
-}
-
-function item25ShowNow() {
-    document.getElementById('revealItem25').style.display = "block";
-}
-
-function item26ShowNow() {
-    document.getElementById('revealItem26').style.display = "block";
-}
-
-function item27ShowNow() {
-    document.getElementById('revealItem27').style.display = "block";
-}
-
-function item28ShowNow() {
-    document.getElementById('revealItem28').style.display = "block";
-}
-
-function item29ShowNow() {
-    document.getElementById('revealItem28').style.display = "block";
-}
-
-function item30ShowNow() {
-    document.getElementById('revealItem30').style.display = "block";
-}
-
-function item31ShowNow() {
-    document.getElementById('revealItem31').style.display = "block";
-}
-
-function item32ShowNow() {
-    document.getElementById('revealItem32').style.display = "block";
-}
-
-function item33ShowNow() {
-    document.getElementById('revealItem33').style.display = "block";
-}
-
-function item34ShowNow() {
-    document.getElementById('revealItem34').style.display = "block";
-}
-
-function item35ShowNow() {
-    document.getElementById('revealItem35').style.display = "block";
-}
-
-function item36ShowNow() {
-    document.getElementById('revealItem36').style.display = "block";
-}
-
-function item37ShowNow() {
-    document.getElementById('revealItem37').style.display = "block";
-}
-
-function item38ShowNow() {
-    document.getElementById('revealItem38').style.display = "block";
-}
-
-function item39ShowNow() {
-    document.getElementById('revealItem39').style.display = "block";
-}
-
-function item40ShowNow() {
-    document.getElementById('revealItem40').style.display = "block";
-}
-
-function item41howNow() {
-    document.getElementById('revealItem41').style.display = "block";
-}
-
-function item42ShowNow() {
-    document.getElementById('revealItem42').style.display = "block";
-}
-
-function item43ShowNow() {
-    document.getElementById('revealItem43').style.display = "block";
-}
-
-function item44ShowNow() {
-    document.getElementById('revealItem44').style.display = "block";
-}
-
-function item45ShowNow() {
-    document.getElementById('revealItem45').style.display = "block";
-}
-
-function item46ShowNow() {
-    document.getElementById('revealItem46').style.display = "block";
-}
-
-function item47ShowNow() {
-    document.getElementById('revealItem47').style.display = "block";
-}
-
-function item48ShowNow() {
-    document.getElementById('revealItem48').style.display = "block";
-}
-
-function item49ShowNow() {
-    document.getElementById('revealItem49').style.display = "block";
-}
-
-function item1Removal() {
-  var item1Removed = document.getElementById("revealItem1");
-  item1Removed.remove();
-}
-
-function item2Removal() {
-  var item2Removed = document.getElementById("revealItem2");
-  item2Removed.remove();
-}
-
-function item3Removal() {
-  var item3Removed = document.getElementById("revealItem3");
-  item3Removed.remove();
-}
-
-function item4Removal() {
-  var item4Removed = document.getElementById("revealItem4");
-  item4Removed.remove();
-}
-
-function item5Removal() {
-  var item5Removed = document.getElementById("revealItem5");
-  item5Removed.remove();
-}
-
-function item6Removal() {
-  var item6Removed = document.getElementById("revealItem6");
-  item6Removed.remove();
-}
-
-function item7Removal() {
-  var item7Removed = document.getElementById("revealItem7");
-  item7Removed.remove();
-}
-
-function item8Removal() {
-  var item8Removed = document.getElementById("revealItem8");
-  item8Removed.remove();
-}
-
-function item9Removal() {
-  var item9Removed = document.getElementById("revealItem9");
-  item9Removed.remove();
-}
-
-function item10Removal() {
-  var item10Removed = document.getElementById("revealItem10");
-  item10Removed.remove();
-}
-
-function item11Removal() {
-  var item11Removed = document.getElementById("revealItem11");
-  item11Removed.remove();
-}
-
-function item12Removal() {
-  var item12Removed = document.getElementById("revealItem12");
-  item12Removed.remove();
-}
-
-function item13Removal() {
-  var item13Removed = document.getElementById("revealItem13");
-  item13Removed.remove();
-}
-
-function item14Removal() {
-  var item14Removed = document.getElementById("revealItem14");
-  item14Removed.remove();
-}
-
-function item15Removal() {
-  var item15Removed = document.getElementById("revealItem15");
-  item15Removed.remove();
-}
-
-function item16Removal() {
-  var item16Removed = document.getElementById("revealItem16");
-  item16Removed.remove();
-}
-
-function item17Removal() {
-  var item17Removed = document.getElementById("revealItem17");
-  item17Removed.remove();
-}
-
-function item17Removal() {
-  var item17Removed = document.getElementById("revealItem17");
-  item17Removed.remove();
-}
-
-function itemRemoval() {
-  var item18Removed = document.getElementById("revealItem18");
-  item18Removed.remove();
-}
-
-function item19Removal() {
-  var item19Removed = document.getElementById("revealItem19");
-  item19Removed.remove();
-}
-
-function item20Removal() {
-  var item20Removed = document.getElementById("revealItem20");
-  item20Removed.remove();
-}
-
-function item21Removal() {
-  var item21Removed = document.getElementById("revealItem21");
-  item21Removed.remove();
-}
-
-function item22Removal() {
-  var item22Removed = document.getElementById("revealItem22");
-  item22Removed.remove();
-}
-
-function item23Removal() {
-  var item23Removed = document.getElementById("revealItem23");
-  item23Removed.remove();
-}
-
-function item24Removal() {
-  var item24Removed = document.getElementById("revealItem24");
-  item24Removed.remove();
-}
-
-function item25Removal() {
-  var item25Removed = document.getElementById("revealItem25");
-  item25Removed.remove();
-}
-
-function item26Removal() {
-  var item26Removed = document.getElementById("revealItem26");
-  item26Removed.remove();
-}
-
-function item27Removal() {
-  var item27Removed = document.getElementById("revealItem27");
-  item27Removed.remove();
-}
-
-function item28Removal() {
-  var item28Removed = document.getElementById("revealItem28");
-  item28Removed.remove();
-}
-
-function item29Removal() {
-  var item29Removed = document.getElementById("revealItem29");
-  item29Removed.remove();
-}
-
-function item30Removal() {
-  var item30Removed = document.getElementById("revealItem30");
-  item30Removed.remove();
-}
-
-function item31Removal() {
-  var item31Removed = document.getElementById("revealItem31");
-  item31Removed.remove();
-}
-
-function item32Removal() {
-  var item32Removed = document.getElementById("revealItem32");
-  item32Removed.remove();
-}
-
-function item33Removal() {
-  var item33Removed = document.getElementById("revealItem33");
-  item33Removed.remove();
-}
-
-function item34Removal() {
-  var item34Removed = document.getElementById("revealItem34");
-  item34Removed.remove();
-}
-
-function item35Removal() {
-  var item35Removed = document.getElementById("revealItem35");
-  item35Removed.remove();
-}
-
-function item36Removal() {
-  var item36Removed = document.getElementById("revealItem36");
-  item36Removed.remove();
-}
-
-function item37Removal() {
-  var item37Removed = document.getElementById("revealItem37");
-  item37Removed.remove();
-}
-
-function item38Removal() {
-  var item38Removed = document.getElementById("revealItem38");
-  item38Removed.remove();
-}
-
-function item39Removal() {
-  var item39Removed = document.getElementById("revealItem39");
-  item39Removed.remove();
-}
-
-function item40Removal() {
-  var item40Removed = document.getElementById("revealItem40");
-  item40Removed.remove();
-}
-
-function item41Removal() {
-  var item41Removed = document.getElementById("revealItem41");
-  item41Removed.remove();
-}
-
-function item42Removal() {
-  var item42Removed = document.getElementById("revealItem42");
-  item42Removed.remove();
-}
-
-function item43Removal() {
-  var item43Removed = document.getElementById("revealItem43");
-  item43Removed.remove();
-}
-
-function item44Removal() {
-  var item44Removed = document.getElementById("revealItem44");
-  item44Removed.remove();
-}
-
-function item45Removal() {
-  var item45Removed = document.getElementById("revealItem45");
-  item45Removed.remove();
-}
-
-function item46Removal() {
-  var item46Removed = document.getElementById("revealItem46");
-  item46Removed.remove();
-}
-
-function item47Removal() {
-  var item47Removed = document.getElementById("revealItem47");
-  item47Removed.remove();
-}
-
-function item48Removal() {
-  var item48Removed = document.getElementById("revealItem48");
-  item48Removed.remove();
-}
-
-function showItem1SmallPrice(){
-  document.getElementById('item1SubTotal').style.display = 'block';
-}
+function item1ShowNow(){document.getElementById('revealItem1').style.display = "block";}
+function item2ShowNow(){document.getElementById('revealItem2').style.display = "block";}
+function item3ShowNow(){document.getElementById('revealItem3').style.display = "block";}
+function item4ShowNow(){document.getElementById('revealItem4').style.display = "block";}
+function item5ShowNow(){document.getElementById('revealItem5').style.display = "block";}
+function item6ShowNow(){document.getElementById('revealItem6').style.display = "block";}
+function item7ShowNow(){document.getElementById('revealItem7').style.display = "block";}
+function item8ShowNow(){document.getElementById('revealItem8').style.display = "block";}
+function item9ShowNow(){document.getElementById('revealItem9').style.display = "block";}
+function item10ShowNow(){document.getElementById('revealItem10').style.display = "block";}
+function item11ShowNow(){document.getElementById('revealItem11').style.display = "block";}
+function item12ShowNow(){document.getElementById('revealItem12').style.display = "block";}
+function item13ShowNow(){document.getElementById('revealItem13').style.display = "block";}
+function item14ShowNow(){document.getElementById('revealItem15').style.display = "block";}
+function item15ShowNow(){document.getElementById('revealItem15').style.display = "block";}
+function item16ShowNow(){document.getElementById('revealItem16').style.display = "block";}
+function item17ShowNow(){document.getElementById('revealItem17').style.display = "block";}
+function item18ShowNow(){document.getElementById('revealItem18').style.display = "block";}
+function item19ShowNow(){document.getElementById('revealItem19').style.display = "block";}
+function item20ShowNow(){document.getElementById('revealItem20').style.display = "block";}
+function item21ShowNow(){document.getElementById('revealItem21').style.display = "block";}
+function item22ShowNow(){document.getElementById('revealItem22').style.display = "block";}
+function item23ShowNow(){document.getElementById('revealItem23').style.display = "block";}
+function item24ShowNow(){document.getElementById('revealItem24').style.display = "block";}
+function item25ShowNow(){document.getElementById('revealItem25').style.display = "block";}
+function item26ShowNow(){document.getElementById('revealItem26').style.display = "block";}
+function item27ShowNow(){document.getElementById('revealItem27').style.display = "block";}
+function item28ShowNow(){document.getElementById('revealItem28').style.display = "block";}
+function item29ShowNow(){document.getElementById('revealItem28').style.display = "block";}
+function item30ShowNow(){document.getElementById('revealItem30').style.display = "block";}
+function item31ShowNow(){document.getElementById('revealItem31').style.display = "block";}
+function item32ShowNow(){document.getElementById('revealItem32').style.display = "block";}
+function item33ShowNow(){document.getElementById('revealItem33').style.display = "block";}
+function item34ShowNow(){document.getElementById('revealItem34').style.display = "block";}
+function item35ShowNow(){document.getElementById('revealItem35').style.display = "block";}
+function item36ShowNow(){document.getElementById('revealItem36').style.display = "block";}
+function item37ShowNow(){document.getElementById('revealItem37').style.display = "block";}
+function item38ShowNow(){document.getElementById('revealItem38').style.display = "block";}
+function item39ShowNow(){document.getElementById('revealItem39').style.display = "block";}
+function item40ShowNow(){document.getElementById('revealItem40').style.display = "block";}
+function item41ShowNow(){document.getElementById('revealItem41').style.display = "block";}
+function item42ShowNow(){document.getElementById('revealItem42').style.display = "block";}
+function item43ShowNow(){document.getElementById('revealItem43').style.display = "block";}
+function item44ShowNow(){document.getElementById('revealItem44').style.display = "block";}
+function item45ShowNow(){document.getElementById('revealItem45').style.display = "block";}
+function item46ShowNow(){document.getElementById('revealItem46').style.display = "block";}
+function item47ShowNow(){document.getElementById('revealItem47').style.display = "block";}
+function item48ShowNow(){document.getElementById('revealItem48').style.display = "block";}
+
+function item1Removal(){var item1Removed = document.getElementById("revealItem1");item1Removed.remove();}
+function item2Removal(){var item2Removed = document.getElementById("revealItem2");item2Removed.remove();}
+function item3Removal(){var item3Removed = document.getElementById("revealItem3");item3Removed.remove();}
+function item4Removal(){var item4Removed = document.getElementById("revealItem4");item4Removed.remove();}
+function item5Removal(){var item5Removed = document.getElementById("revealItem5");item5Removed.remove();}
+function item6Removal(){var item6Removed = document.getElementById("revealItem6");item6Removed.remove();}
+function item7Removal(){var item7Removed = document.getElementById("revealItem7");item7Removed.remove();}
+function item8Removal(){var item8Removed = document.getElementById("revealItem8");item8Removed.remove();}
+function item9Removal(){var item9Removed = document.getElementById("revealItem9");item9Removed.remove();}
+function item10Removal(){var item10Removed = document.getElementById("revealItem10");item10Removed.remove();}
+function item11Removal(){var item11Removed = document.getElementById("revealItem11");item11Removed.remove();}
+function item12Removal(){var item12Removed = document.getElementById("revealItem12");item12Removed.remove();}
+function item13Removal(){var item13Removed = document.getElementById("revealItem13");item13Removed.remove();}
+function item14Removal(){var item14Removed = document.getElementById("revealItem14");item14Removed.remove();}
+function item15Removal(){var item15Removed = document.getElementById("revealItem15");item15Removed.remove();}
+function item16Removal(){var item16Removed = document.getElementById("revealItem16");item16Removed.remove();}
+function item17Removal(){var item17Removed = document.getElementById("revealItem17");item17Removed.remove();}
+function item18Removal(){var item18Removed = document.getElementById("revealItem18");item18Removed.remove();}
+function item19Removal(){var item19Removed = document.getElementById("revealItem19");item19Removed.remove();}
+function item20Removal(){var item20Removed = document.getElementById("revealItem20");item20Removed.remove();}
+function item21Removal(){var item21Removed = document.getElementById("revealItem21");item21Removed.remove();}
+function item22Removal(){var item22Removed = document.getElementById("revealItem22");item22Removed.remove();}
+function item23Removal(){var item23Removed = document.getElementById("revealItem23");item23Removed.remove();}
+function item24Removal(){var item24Removed = document.getElementById("revealItem24");item24Removed.remove();}
+function item25Removal(){var item25Removed = document.getElementById("revealItem25");item25Removed.remove();}
+function item26Removal(){var item26Removed = document.getElementById("revealItem26");item26Removed.remove();}
+function item27Removal(){var item27Removed = document.getElementById("revealItem27");item27Removed.remove();}
+function item28Removal(){var item28Removed = document.getElementById("revealItem28");item28Removed.remove();}
+function item29Removal(){var item29Removed = document.getElementById("revealItem29");item29Removed.remove();}
+function item30Removal(){var item30Removed = document.getElementById("revealItem30");item30Removed.remove();}
+function item31Removal(){var item31Removed = document.getElementById("revealItem31");item31Removed.remove();}
+function item32Removal(){var item32Removed = document.getElementById("revealItem32");item32Removed.remove();}
+function item33Removal(){var item33Removed = document.getElementById("revealItem33");item33Removed.remove();}
+function item34Removal(){var item34Removed = document.getElementById("revealItem34");item34Removed.remove();}
+function item35Removal(){var item35Removed = document.getElementById("revealItem35");item35Removed.remove();}
+function item36Removal(){var item36Removed = document.getElementById("revealItem36");item36Removed.remove();}
+function item37Removal(){var item37Removed = document.getElementById("revealItem37");item37Removed.remove();}
+function item38Removal(){var item38Removed = document.getElementById("revealItem38");item38Removed.remove();}
+function item39Removal(){var item39Removed = document.getElementById("revealItem39");item39Removed.remove();}
+function item40Removal(){var item40Removed = document.getElementById("revealItem40");item40Removed.remove();}
+function item41Removal(){var item41Removed = document.getElementById("revealItem41");item41Removed.remove();}
+function item42Removal(){var item42Removed = document.getElementById("revealItem42");item42Removed.remove();}
+function item43Removal(){var item43Removed = document.getElementById("revealItem43");item43Removed.remove();}
+function item44Removal(){var item44Removed = document.getElementById("revealItem44");item44Removed.remove();}
+function item45Removal(){var item45Removed = document.getElementById("revealItem45");item45Removed.remove();}
+function item46Removal(){var item46Removed = document.getElementById("revealItem46");item46Removed.remove();}
+function item47Removal(){var item47Removed = document.getElementById("revealItem47");item47Removed.remove();}
+function item48Removal(){var item48Removed = document.getElementById("revealItem48");item48Removed.remove();}
 
 function selectItemSizeCheckbox() {  
   var smallSize = document.getElementsByClassName("small-size");  
@@ -1686,13 +1339,9 @@ function selectItem48SizeCheckbox() {
   }  
 }
 
-function resetSubtotalCounter() {
-    document.getElementById("cartItemsTotal").innerHTML = "0.00";
-}
+function resetSubtotalCounter(){document.getElementById("cartItemsTotal").innerHTML = "0.00";}
 
-function resetTotalCounter() {
-    document.getElementById("cartItemsTotal").innerHTML = "0.00";
-}
+function resetTotalCounter(){document.getElementById("cartItemsTotal").innerHTML = "0.00";}
 
 function selectItem1Quantity() {
   var quantity = document.getElementById("inputItem1Quantity");
