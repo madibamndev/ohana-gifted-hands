@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&family=Yusei+Magic&display=swap');
+
+body {
+    background-color: #e19284;
+    font-size: calc(16px + (20 - 16) * ((100vw - 300px) / (2500 - 300)));
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #0c078f;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+p {
+    color: #0b0957;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 0.0625em;
+    line-height: 1.6;
+}
+
+a {
+    color: #0b0957;
+    text-decoration: none;
+}
+
+small {
+    color: #0b0957;
+}
+
+fieldset {
+    color: #0b0957;
+}
+
+label {
+    color: #003809;
+}
+
+hr {
+    background-color: #0f081d;
+    height: 1px;
+    border: 0;
+}
+
+dt {
+    color: #0f081d;
+}
+
+.card {
+    background-color: #b19cd9;
+}
+
+.breadcrumb-item a {
+    color: #0d06ca;
+}
+
+.breadcrumb-item a:hover {
+    color: rgb(255, 255, 255);
+}
+
+.breadcrumb>.active {
+    color: black;
+}
+
+.list-group-item:hover {
+    background-color: #c65ee6;
+}
+
+.list-group-item {
+    background-color: #e19284;
+}
+
+.list-group-item-action {
+    background-color: #e19284;
+}
+
+.accordion-header {
+    background-color: #e19284;
+}
+
+.accordion-button {
+    background-color: #e19284;
+}
+
+.modal-content {
+    background-color: #e19284;
+}
+
+#myHeadwearList {
+    background-color: #e19284;
+}
+#revealItem1 {
+    display: none;
+}
+
+#revealItem2 {
+    display: none;
+}
+
+#revealItem3 {
+    display: none;
+}
+
+#revealItem4 {
+    display: none;
+}
+
+#revealItem5 {
+    display: none;
+}
+
+#revealItem6 {
+    display: none;
+}
+
+#revealItem7 {
+    display: none;
+}
+
+#revealItem8 {
+    display: none;
+}
+
+#revealItem9 {
+    display: none;
+}
+
+#revealItem10 {
+    display: none;
+}
+
+#revealItem11 {
+    display: none;
+}
+
+#revealItem12 {
+    display: none;
+}
+
+#revealItem13 {
+    display: none;
+}
+
+#revealItem14 {
+    display: none;
+}
+
+#revealItem15 {
+    display: none;
+}
+
+#revealItem16 {
+    display: none;
+}
+
+#revealItem17 {
+    display: none;
+}
+
+#revealItem18 {
+    display: none;
+}
+
+#revealItem19 {
+    display: none;
+}
+
+#revealItem20 {
+    display: none;
+}
+
+#revealItem21 {
+    display: none;
+}
+
+#revealItem22 {
+    display: none;
+}
+
+#revealItem23 {
+    display: none;
+}
+
+#revealItem24 {
+    display: none;
+}
+
+#revealItem25 {
+    display: none;
+}
+
+#revealItem26 {
+    display: none;
+}
+
+#revealItem27 {
+    display: none;
+}
+
+#revealItem28 {
+    display: none;
+}
+
+#revealItem29 {
+    display: none;
+}
+
+#revealItem30 {
+    display: none;
+}
+
+#revealItem31 {
+    display: none;
+}
+
+#revealItem32 {
+    display: none;
+}
+
+#revealItem33 {
+    display: none;
+}
+
+#revealItem32 {
+    display: none;
+}
+
+#revealItem33 {
+    display: none;
+}
+
+#revealItem34 {
+    display: none;
+}
+
+#revealItem35 {
+    display: none;
+}
+
+#revealItem36 {
+    display: none;
+}
+
+#revealItem37 {
+    display: none;
+}
+
+#revealItem38 {
+    display: none;
+}
+
+#revealItem39 {
+    display: none;
+}
+
+#revealItem40 {
+    display: none;
+}
+
+#revealItem41 {
+    display: none;
+}
+
+#revealItem42 {
+    display: none;
+}
+
+#revealItem43 {
+    display: none;
+}
+
+#revealItem44 {
+    display: none;
+}
+
+#revealItem45 {
+    display: none;
+}
+
+#revealItem46 {
+    display: none;
+}
+
+#revealItem47 {
+    display: none;
+}
+
+#revealItem48 {
+    display: none;
+}
