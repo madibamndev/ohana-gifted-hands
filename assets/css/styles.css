@@ -22,6 +22,10 @@ a {
     text-decoration: none;
 }
 
+strong {
+    color: #0c0977;
+}
+
 small {
     color: #0b0957;
 }
